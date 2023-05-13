@@ -1,0 +1,1 @@
+This file check whether SCM-Source code management works properly
